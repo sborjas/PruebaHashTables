@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Samuel Borjas/CLionProjects/HashTable2018
+# Install script for directory: C:/Users/Samuel Borjas/CLionProjects/PruebaHashTable/HashTable2018
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Samuel Borjas/CLionProjects/HashTable2018/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Samuel Borjas/CLionProjects/PruebaHashTable/HashTable2018/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
