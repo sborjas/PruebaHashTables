@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Samuel Borjas/CLionProjects/HashTable2018/hash.cpp
+hash.h
+C:/Users/Samuel Borjas/CLionProjects/HashTable2018/hash.h
+
+C:/Users/Samuel Borjas/CLionProjects/HashTable2018/hash.h
+iostream
+-
+cstdlib
+-
+string
+-
+
+C:/Users/Samuel Borjas/CLionProjects/HashTable2018/main.cpp
+iostream
+-
+cstdlib
+-
+string
+-
+hash.h
+C:/Users/Samuel Borjas/CLionProjects/HashTable2018/hash.h
+
